@@ -1,22 +1,24 @@
-# Full Adder Physical Design using OpenROAD
+# Full Adder Physical Design Project
 
-## Objective
-To implement Full Adder and perform complete Physical Design flow.
+## About Project
+This project shows basic VLSI Physical Design flow using Full Adder circuit.
 
-## Tools Used
-OpenROAD
-Sky130 PDK
-Magic VLSI
+## Inputs
+A, B, Cin
 
-## Flow Steps
-1. RTL Design
-2. Synthesis
+## Outputs
+Sum, Cout
+
+## PD Flow Steps
+1. RTL Design (Verilog coding)
+2. Logic Synthesis
 3. Floorplanning
 4. Placement
-5. Clock Tree Synthesis
-6. Routing
-7. Layout generation
+5. Routing
+6. Layout generation
 
-## Results
-Timing report attached
-Layout screenshot attached
+## Tools
+OpenROAD (Physical Design Tool)
+
+## Author
+Fresher VLSI Engineer
